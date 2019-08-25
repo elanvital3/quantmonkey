@@ -1,0 +1,10 @@
+---
+title: "how cool"
+author: "taehun kim"
+date: '2019-08-25'
+slug: how-cool
+tags: R Markdown
+categories: R
+---
+
+###this is my time
